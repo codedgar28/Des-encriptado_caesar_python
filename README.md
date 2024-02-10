@@ -13,7 +13,8 @@
 
 <----- print('Cómo usar')
 
-'''git clone https://github.com/thepythonsummit/Des-encriptado_caesar_python
+'''bash
+git clone https://github.com/thepythonsummit/Des-encriptado_caesar_python
 
 '''pip install pyperclip
 
