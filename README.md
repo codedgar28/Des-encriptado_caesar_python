@@ -13,12 +13,8 @@
 
 <----- print('Cómo usar')
 
-[Instrucciones sobre cómo ejecutar y usar el programa, incluyendo cómo clonar el repositorio, instalar las dependencias necesarias si las hay, y ejemplos de comandos para encriptar y desencriptar texto.]
+'''git clone https://github.com/thepythonsummit/Des-encriptado_caesar_python
 
-## Contribuir
+'''pip install pyperclip
 
-Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorar este programa, no dudes en crear un 'issue' o enviar un 'pull request'.
-
-## Licencia
-
-[Información sobre la licencia bajo la cual se distribuye el programa.]
+'''python3 des_encriptado_caesar.py
